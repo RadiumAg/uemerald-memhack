@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cmake.generator": "MSYS Makefiles",
+		"files.associations": {
+			"qdebug": "cpp",
+			"qmessagebox": "cpp",
+			"qdesktopservices": "cpp",
+			"qapplication": "cpp"
+		}
+	}
+}
